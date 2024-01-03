@@ -146,38 +146,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 #https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
 
 
- ############################################## RTM KLIK #######################################
- 
-#EXTINF:-1 group-title="XTRA TONTON" ch-number="103" tvg-id="TV3" tvg-name="TV3" group-logo="https://media.xtra.com.my/2020/03/logoextra.png" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/TV3.png",103 TV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="149" ch-number="149" tvg-name="TV9" group-title="XTRA TONTON" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/TV9.png",149 TV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
-
- 
-#EXTINF:-1 tvg-id="149" ch-number="149" tvg-name="TV9" group-title="XTRA TONTON" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/ntv7.png",147 TV7
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056641&autoplay=1&mute=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
- 
- 
-#EXTINF:-1 tvg-id="148" ch-number="148" tvg-name="8TV" group-title="XTRA TONTON" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/TV8.png",148 TV8
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
-
-
-#EXTINF:-1 group-title="XTRA TONTON" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/DRAMASANGAT.webp",105 Drama Sangat 
-#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
-
-
- ############################################## RTM KLIK #######################################
+############################################## RTM KLIK #######################################
   
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="RTM KLIK" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/RTMKLIKLOGO.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
@@ -339,11 +309,6 @@ https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd?aws.sessionId=ba40e605-0ef3-41c7-9059-7de61a308963
 
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroAura.my" ch-number="113" ch-number=" " tvg-name="ASTRO AURA HD" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/INDOLOGO.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="INDONESIA", 113 Astro Aura  
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 
 #######################################################################################################################################################################
@@ -2545,10 +2510,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #EXTINF:-1 tvg-id="821" ch-number=" " tvg-name="WWE Network HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="ASTRO",821 WWE Network
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
   
-#EXTINF:-1 tvg-id="718" ch-number="718" group-title="MUSIC" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210913/20210913160636492fzf.png",MTV Asia 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IvlkptaSfM26SC53XN/xkA","kid":"OsJUKk9750ZjPbB2R0UXEA"}],"type":"temporary"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
+
   
 #EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-name="Astro Arena HD" group-title="ASTRO" ch-number="801" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/MALAYSUPERLOGO.jpg" tvg-logo="https://i.ibb.co/c8KT20b/ARENA.png", 801 Astro Arena 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
