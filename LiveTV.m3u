@@ -335,12 +335,14 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 #EXTINF:-1 ch-number=" " tvg-name="Sun Music HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="INDIAN" tvg-id="212" ch-number=" " tvg-name="212",212 Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2gpwFI4SbrQMzgJmV1OJbQ", "kid":"vqypRh98oNWLpSn+0ue2EA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
 
 #EXTINF:-1 ch-number=" " tvg-name="SUN TV HD" tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="INDIAN" tvg-id="211" ch-number=" " tvg-name="SUN TV HD",211 Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"699Wuko1YsyCBTopUpdUMg", "kid":"gwdv8vaNF2S1WcQyq0nKEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD77dZAThIRyeYE50YTPXVl6pFksv5G7W4gg&usqp=CAU" group-title="INDIAN" tvg-id="Vasantham" ch-number=" " tvg-name="Vasantham", Vasantham
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -407,7 +409,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 #EXTINF:-1 tvg-id="211" ch-number=" " tvg-name="SUN TV HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"699Wuko1YsyCBTopUpdUMg", "kid":"gwdv8vaNF2S1WcQyq0nKEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
 
 #EXTINF:-1 tvg-id="215" ch-number=" " tvg-name="Sun News" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png",215  Sun News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1934,12 +1937,14 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 #EXTINF:-1 ch-number=" " tvg-name="Sun Music HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="ASTRO" tvg-id="212" ch-number=" " tvg-name="212",212 Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2gpwFI4SbrQMzgJmV1OJbQ", "kid":"vqypRh98oNWLpSn+0ue2EA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
   
 #EXTINF:-1 ch-number=" " tvg-name="SUN TV HD" tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="ASTRO" tvg-id="211" ch-number=" " tvg-name="SUN TV HD",211 Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"699Wuko1YsyCBTopUpdUMg", "kid":"gwdv8vaNF2S1WcQyq0nKEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1981,7 +1986,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 #EXTINF:-1 tvg-id="211" ch-number=" " tvg-name="SUN TV HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"699Wuko1YsyCBTopUpdUMg", "kid":"gwdv8vaNF2S1WcQyq0nKEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
   
 #EXTINF:-1 tvg-id="215" ch-number=" " tvg-name="Sun News" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png",215  Sun News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
