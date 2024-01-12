@@ -1211,26 +1211,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 #####################################################################ASTRO###############################################################################
 
-
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="ASTRO" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/MALAYLOGO.jpg" tvg-logo=" ", 100 Live Astro 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
   
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="ASTRO" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/MALAYLOGO.jpg" tvg-logo=" ", 100 Live Astro 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
   
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", 101 TV1
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
-
-#EXTINF:-1 tvg-id="TV1" group-title="ASTRO" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/711
-https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV1" group-title="ASTRO" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
