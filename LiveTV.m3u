@@ -1668,8 +1668,8 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_primary.mp
   
 #EXTINF:-1 tvg-id="518" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/461_144.png" ch-number="518",ABC Australia 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/904
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/904/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"647ae9cb587319a00eed56b7e5e46b44","kid":"14fdb1982124a67e06642960c632ce10"}],"type":"temporary"}
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5075/default_primary.mpd
 
 #EXTINF:-1 tvg-id="BBCWorldNews" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/366_144.png" ch-number="512",512 BBC World News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1768,11 +1768,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_primary.m
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dYgj5Oq7bkyMA20HPbRrjA","kid":"wOGASqHZ/ZxBxBvw9hpfEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="816" ch-number="816" tvg-name="SPOTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="ASTRO",816 Spotv
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
-  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7W1n2VPRSwJrJgLPiEZXfg","kid":"Xv0m2lABNjtNb6SpyBKtEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="810" ch-number="810" tvg-name="SPOTV2" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png",810 Spotv 2 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
@@ -1811,13 +1806,6 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MFKMTviClU5XB80QAdZhIQ","kid":"DLxNO0+9mvUSrLJIi7QpEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="821" ch-number=" " tvg-name="WWE Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="ASTRO",821 WWE Network
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
-  
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="ASTRO", 802 Astro Arena 2
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
-  
 
 
 #####################################################################ASTRO###############################################################################
