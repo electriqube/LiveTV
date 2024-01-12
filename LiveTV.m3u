@@ -69,7 +69,7 @@ https://is.gd/GEztK1
 #EXTINF:-1 tvg-id="241" ch-number=" " tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="INDIAN",241 Box Office Thangathirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
-https://linears-playback.astro.com.my/vsg/41PXJaXzh0y9AcCQYP-ieX3x6bRbURYZrOHT8bezAhe24=DC4O/dash-wv/jitp-linearwm/2109/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41PXJaXzh0y9AcCQYP-ieX3_tOb0czgmfJTo3K-0VF05E=nd7F/dash-wv/jitp-linearwm/2109/default_primary.mpd
 
 
 #EXTINF:-1 ch-number=" " tvg-name="Star Vijay HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="INDIAN" tvg-id="221" ch-number=" " tvg-name="221",221 Star Vijay HD
