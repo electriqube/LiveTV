@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="5" billed-msg="LIVE TV - Updated 12.1.2024"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="5" billed-msg="LIVE TV - Updated 16.1.2024"
 refresh="3600"
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -107,7 +107,8 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2309/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="202" ch-number=" " tvg-name="Astro Vinmeen HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen
-https://linears-playback.astro.com.my/vsg/41GnHJhJAXdGXrey6jHOxC5sqGzMS3MSdKc5j5lm2wc4k=yFaV/dash-wv/jitp-dashisowm/2105/default_primary.mpd
+#https://linears-playback.astro.com.my/vsg/41GnHJhJAXdGXrey6jHOxC5sqGzMS3MSdKc5j5lm2wc4k=yFaV/dash-wv/jitp-dashisowm/2105/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41GnHJhJAXdGXrey6jHOxC5jp60ZJOx1FXapEc3q31j6k=cJp5/dash-wv/jitp-dashisowm/2105/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
@@ -1319,7 +1320,8 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2309/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="202" ch-number=" " tvg-name="Astro Vinmeen HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen
-https://linears-playback.astro.com.my/vsg/41GnHJhJAXdGXrey6jHOxC5sqGzMS3MSdKc5j5lm2wc4k=yFaV/dash-wv/jitp-dashisowm/2105/default_primary.mpd
+#https://linears-playback.astro.com.my/vsg/41GnHJhJAXdGXrey6jHOxC5sqGzMS3MSdKc5j5lm2wc4k=yFaV/dash-wv/jitp-dashisowm/2105/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41GnHJhJAXdGXrey6jHOxC5jp60ZJOx1FXapEc3q31j6k=cJp5/dash-wv/jitp-dashisowm/2105/default_primary.mpd
   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
