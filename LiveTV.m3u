@@ -11,7 +11,7 @@ refresh="3600"
 
 ##############################################SOOKA TV##############################################
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="SOOKA TV" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/SOOKALOGO.jpg" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/9ccc772601b741d4a20c94c132a03282/version/0/width/315/height/177/quality/80", Tayo+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="SOOKA TV" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/SOOKA.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/9ccc772601b741d4a20c94c132a03282/version/0/width/315/height/177/quality/80", Tayo+
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayoplus-dash-sooka/index.mpd
 
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="SOOKA TV" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/ccdd07c58dcf4ae6be79b41e8a35c111/version/0", TesteMade
@@ -659,7 +659,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default_primary.m
 #EXTVLCOPT:http-DownLoadRate=40960.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/UNFILOGO.png" group-title="UNIFI" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",101 Unifi TV1
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/UNIFI.png" group-title="UNIFI" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",101 Unifi TV1
 https://web.hypp.tv:443/PLTV/88888888/224/3221227769/3221227769.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=ISjyAgq%2Blu2gselHicZT7oMpLAivxUA%2BrQHxwFC0%2BPPf5%2FAFj1swDTc1x%2BSww9v%2BkspKWPAI1%2FcZIol9jdelgEddxsQ6cqFIt%2B6MTSoEjjGvR4mROu%2BV7STD5iyI4TPelRUU0IgnFl7hSHjttapGxQ%3D%3D%3A20230713154128%3AUTC%2C1004320541%2C14.1.206.81%2C20230713154128%2Curn:Huawei:liveTV:iptv243%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&hms_devid=1794&mount=1000002&targetdev=1794&it=H4sIAAAAAAAAA0XMywrCMBBA0b_JMuTZxyIrRXAThKpbGafTEIgNJrXg30tFcH_PXQogHfdOt9Z0orO6RzBmQqBGYk9gQbWNkIJVevrsNENIKc7B53Fj12F3k4ILrpTk2rDztjskCE59S_963Kn82UBljUhurBNfoXIIoVCAJeaZnxK8LyX9kg_8GL0ymQAAAA
   
   
