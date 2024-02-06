@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="5" billed-msg="LIVE TV - Updated 19.1.2024"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="5" billed-msg="LIVE TV - Updated 6.2.2024"
 refresh="3600"
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1097,13 +1097,11 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
-
   
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="ASTRO" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/ASTRO.png" tvg-logo=" ", 100 Live Astro 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
-  
 
 #EXTINF:-1 tvg-id="TV1" group-title="ASTRO" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1112,11 +1110,31 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={"5262cbebead64f42aa8317e3cb13106c": "17fbade6a94f5271a6a7c56374bf6d8e"}
 https://linear08-playback.sooka.my/CH3/masterCH3.mpd
 
-  
 #EXTINF:-1 tvg-id="TV2" ch-number="102" tvg-name="TV2 HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+
+#EXTINF:-1 tvg-id="104" ch-number="104" tvg-name="RIA HD" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png", RIA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHSy7Oj8Cv4iUPFYIn5CPZ9I=aqJK/dash-wv/jitp-linearwm/1004/default_ott.mpd
+
+#EXTINF:-1 tvg-id="105" ch-number="105" tvg-name="PRIMA HD" group-title="ASTRO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrfse_nKgf23cxebr08B8IPhQ=Fy4U/dash-wv/jitp-dashisowm/1000/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="107" ch-number="107" tvg-name="WARNA HD" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrXzq9BqH3Lw-R4jM3KSM_vs=oltZ/dash-wv/jitp-dashisowm/2402/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="108" ch-number="108" tvg-name="CITRA HD" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpCE7qtrUsXttLPkwn278TME=aTBg/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
