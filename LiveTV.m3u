@@ -142,6 +142,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://karlfazreen.github.io/playlist/colorscineplex.m3u8
 
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="TAMIL" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png"  tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd-1/logo_20220801_201502_68.png",BollywooD ᴴᴰ
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" group-title="TAMIL" group-logo="https://www.onlygfx.com/wp-content/uploads/2022/03/flag-of-top-countries-round-3d-button-16.png" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png",BollywooD Classic ᴴᴰ
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
 
 #######################################################################################################################################################################
 
