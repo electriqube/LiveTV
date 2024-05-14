@@ -1069,22 +1069,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroRia" ch-number="104" tvg-name="RIA HD" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png", 104 RIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHSy7Oj8Cv4iUPFYIn5CPZ9I=aqJK/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://mykingtv.net:2082/gadget1k85/pass1k85/8444
 
 #EXTINF:-1 tvg-id="AstroPrima" ch-number="105" tvg-name="PRIMA HD" group-title="ASTRO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", 105 PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrfse_nKgf23cxebr08B8IPhQ=Fy4U/dash-wv/jitp-dashisowm/1000/default_ott.mpd
+http://mykingtv.net:2082/gadget1k85/pass1k85/8447
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroWarna" ch-number="107" tvg-name="WARNA HD" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", 107 WARNA HD
-https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrXzq9BqH3Lw-R4jM3KSM_vs=oltZ/dash-wv/jitp-dashisowm/2402/default_ott.mpd
+http://mykingtv.net:2082/gadget1k85/pass1k85/8448
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-name="CITRA HD" group-title="ASTRO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", 108 CITRA HD
-https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpCE7qtrUsXttLPkwn278TME=aTBg/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+http://mykingtv.net:2082/gadget1k85/pass1k85/8454
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
