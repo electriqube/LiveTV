@@ -8,7 +8,7 @@ refresh="3600"
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vb22tRR+w8CUUCJpWTeA1Q", "kid":"DwhdB2RNQTWRhi/UeqTGJg" } ], "type":"temporary" }
 
 
-##############################################SOOKA TV##############################################
+##############################################SOOKA TV#############################################
 
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="SOOKA TV" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/SOOKA.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/9ccc772601b741d4a20c94c132a03282/version/0/width/315/height/177/quality/80", Tayo+
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayoplus-dash-sooka/index.mpd
