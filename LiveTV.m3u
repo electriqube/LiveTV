@@ -918,10 +918,8 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "HO5FQCla5tbFGcUEGoDxwA", "kid": "jQKveknkSzGXZNgR0BjF6A" } ], "type": "temporary" }
 #EXTINF:-1 tvg-id="AstroSuperSport1.my" ch-number="811" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 811 Astro SuperSport 1 (1)
-https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9XWTFNVGN5WVRFdFpUSmpNQzAwTURNM0xXRTJaakl0TVRjMU9UUmlNVGhsTVRNNSIsIndtb3BpZCI6MzIsImV4cCI6MTY3Njk1MzM5MywiaWF0IjoxNjc2MzQ5MzkzfQ.TIm5u5k4LJu-lC6Jyy_-aLYRKhqPPd6nBl837vvxz7Q
 
 
 #EXTINF:-1 tvg-id="AstroSuperSport1.my" ch-number="811" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 811 Astro SuperSport 1 (2)
