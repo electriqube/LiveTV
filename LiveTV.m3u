@@ -63,7 +63,8 @@ https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #EXTINF:-1 tvg-id="241" ch-number=" " tvg-name="ABO Movies Thangathirai HD" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/TAMIL.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="TAMIL",241 Box Office Thangathirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
-https://linears-playback.astro.com.my/vsg/41PXJaXzh0y9AcCQYP-ieX36YDORn1TLF-ptzS1vUaWJo=t_bV/dash-wv/jitp-linearwm/2109/default.mpd
+https://linears-playback.astro.com.my/vsg/41PXJaXzh0y9AcCQYP-ieX36Td3jbHQyKAes9XwyUlX_I=4oSs/dash-wv/jitp-linearwm/2109/default_primary.mpd
+
 
 #EXTINF:-1 ch-number=" " tvg-name="Star Vijay HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="TAMIL" tvg-id="221" ch-number=" " tvg-name="221",221 Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -105,7 +106,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="202" ch-number=" " tvg-name="Astro Vinmeen HD" group-title="TAMIL" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen
-https://linears-playback.astro.com.my/vsg/41GnHJhJAXdGXrey6jHOxC5vvenWjt50pThYw2N3T_Ew8=EgyM/dash-wv/jitp-dashisowm/2105/default.mpd
+https://linears-playback.astro.com.my/vsg/41GnHJhJAXdGXrey6jHOxC5sa0HqBydOWEULpefiXefdE=BsRX/dash-wv/jitp-dashisowm/2105/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
