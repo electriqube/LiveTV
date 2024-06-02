@@ -108,7 +108,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default.mpd
 #EXTINF:-1 tvg-id="202" ch-number=" " tvg-name="Astro Vinmeen HD" group-title="TAMIL" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen
 #https://linears-playback.astro.com.my/vsg/41GnHJhJAXdGXrey6jHOxC5nHU9ZfH5YkS-Ewtp6YuHI0=7kGs/dash-wv/jitp-dashisowm/2105/default_ott.mpd
 
-https://raw.githubusercontent.com/electriqube/scraper-test/main/202_2105.m3u8
+https://raw.githubusercontent.com/electriqube/scraper-test/main/202_2105.m3u
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
