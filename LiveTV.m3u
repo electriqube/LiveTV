@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://aqfadtv.xyz/epg" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" billed-msg="LIVE TV - Updated 12 June 2024" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://aqfadtv.xyz/epg" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" billed-msg="LIVE TV - Updated 13 June 2024" refresh="3600"
 
 
 ##############################################SOOKA TV#############################################
@@ -1683,6 +1683,13 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/256px-NBC_Peacock_1986.svg.png", tvg-id="NBCUSA" group-title="SPORTS EXTRA", NBC USA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 #EXTINF:-1 group-title="SPORTS EXTRA" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Premier League TV - Vidio
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
