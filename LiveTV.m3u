@@ -55,8 +55,8 @@ https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 
 #EXTINF:-1 tvg-id="241" ch-number="241" tvg-name="ABO Movies Thangathirai HD" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/TAMIL.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/ABO_Movies.png" group-title="TAMIL",241 Box Office Thangathirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
-https://linears-playback.astro.com.my/vsg/41PXJaXzh0y9AcCQYP-ieX3zXRk19tutxmx6iFnZYRENU=5uKL/dash-wv/jitp-linearwm/2109/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cjf/CLNuE66j019PJXL6OQ","kid":"tyLZVr/GpFCM2R3micm4EA"}],"type":"temporary"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default_primary.mpd
 #https://fdq1.short.gy/241_2109a
 
 
