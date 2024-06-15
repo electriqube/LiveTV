@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://aqfadtv.xyz/epg" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" billed-msg="LIVE TV - Updated 13 June 2024" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://aqfadtv.xyz/epg" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" billed-msg="LIVE TV - Updated 15 June 2024" refresh="3600"
 
 
 ##############################################SOOKA TV#############################################
@@ -813,7 +813,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5148
+#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
 #EXTINF:-1 tvg-id="SPOTVStadia" ch-number="808" tvg-name="SPOTVStadia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV-STADIA.png" group-title="SPORTS", 808 SPOTV Stadia
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default_primary.mpd
 
