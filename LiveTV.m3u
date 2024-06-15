@@ -890,10 +890,6 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUaGtNRGhqWXpjdE1ETmhNQzAwWmpOa0xUaGlaamd0WW1JME4yWTNNVEZpTTJZMCIsIndtb3BpZCI6MzIsImV4cCI6MTcxODI3NjY1NSwiaWF0IjoxNzE3NjcyNjU1fQ.ojcddyuz-xQsLcWkkCJUxWCgW3XlxN9Wy14lPsi5RXY"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSuperSport1.my" ch-number="811" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 811 Astro SuperSport 1
