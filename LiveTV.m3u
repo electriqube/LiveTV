@@ -110,7 +110,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
 #EXTINF:-1 tvg-id="222" ch-number="222" tvg-name="Colors Tamil HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" group-title="TAMIL", 222 Colors Tamil
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 
 #EXTINF:-1 tvg-id="215" ch-number="215" tvg-name="Sun News" group-title="TAMIL" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png",215 Sun News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1191,7 +1191,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
 #EXTINF:-1 tvg-id="222" ch-number=" " tvg-name="Colors Tamil HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" group-title="ASTRO", 222 Colors Tamil
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 
   
 #EXTINF:-1 tvg-id="215" ch-number=" " tvg-name="Sun News" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png",215  Sun News
