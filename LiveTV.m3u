@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://aqfadtv.xyz/epg" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" billed-msg="LIVE TV - Updated 11 July 2024" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://aqfadtv.xyz/epg" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" billed-msg="LIVE TV - Updated 17 July 2024" refresh="3600"
 
 
 ##############################################SOOKA TV#############################################
@@ -918,7 +918,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5HWm1ZV0k0TnpndFl6RmxOeTAwT0dOaUxXSTNOR0l0TlRFeFpUUTVNREF5Tm1NeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNzA1MDUwNCwiaWF0IjoxNzE2NDQ2NTA0fQ.trCEoeJYe-roNnO4GZCKfpEvaatj3fSAs0gmhGpB3XM"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UZzFORGRoT0RNdFpXUTVOeTAwTmpObExXRTJZVGd0WVRSbVpEWXpZakJtWldWaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyMTE2NjE0NywiaWF0IjoxNzIwNTYyMTQ3fQ.u6K5fXNYH3wzydETSA1zKa4U8XnkId4lu6b4t13cWv0"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -930,17 +930,6 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSuperSport1.my" ch-number="811" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 811 Astro SuperSport 1(2)
 https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41Jqk8npIql1y0GVY54nH8vgS0sQYzhtwungLqyK6EG9Q=QXzO/dash-wv/jitp-dashisowm/601/default_primary.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" }], "type":"temporary" }
-#EXTINF:-1 tvg-id="Astro Supersport2" tvg-name="AstroSupersport2" group-title="SPORTS" tvg-logo="https://assets.iptvsystem.my.id/img/astrosupersport2.png",Astro Supersport 2 (2)
-https://cors.iptvsystem.my.id/sooka/CH4/masterCH4.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
-#EXTINF:-1 tvg-id="Astro Supersport4" tvg-name="AstroSupersport4" group-title="SPORTS" tvg-logo="https://assets.iptvsystem.my.id/img/astrosupersport4.png",Astro Supersport 4 (2)
-https://cors.iptvsystem.my.id/sooka/CH2/masterCH2.mpd
 
 
 
