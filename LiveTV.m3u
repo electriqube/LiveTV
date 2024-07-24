@@ -867,7 +867,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=center
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94FAE17E4D15E1CD0BDC7CED096FA510:ea8fa43cc7102e481cd441c58b2ecb08
+#KODIPROP:inputstream.adaptive.license_key=94fae17e4d15e1cd0bdc7ced096fa510:edef8ba979d64acea3c827dcd51d21ed
 #EXTINF:-1 tvg-id="SPOTVStadia" ch-number="780" tvg-name="Paris2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="SPORTS", 780 Paris 2024
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5150/default_primary.mpd
 
