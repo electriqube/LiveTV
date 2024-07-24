@@ -864,6 +864,14 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=center
 
 ##########################################################SPORTS##########################################################
 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94FAE17E4D15E1CD0BDC7CED096FA510:ea8fa43cc7102e481cd441c58b2ecb08
+#EXTINF:-1 tvg-id="SPOTVStadia" ch-number="780" tvg-name="Paris2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="SPORTS", 780 Paris 2024
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5150/default_primary.mpd
+
+
 #EXTINF:-1 tvg-id="TVSUKAN" ch-number="111" tvg-name="SUKAN RTM" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/SPORTS.png" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
