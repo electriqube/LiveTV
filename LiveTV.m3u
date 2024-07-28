@@ -905,6 +905,24 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5154/default_primary.m
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5155/default_primary.mpd
 
 
+#EXTINF:-1 tvg-chno="711" tvg-id="" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-1.png",RTM PARIS 2024 OLYMPICS 1
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/index.m3u8
+
+#EXTINF:-1 tvg-chno="712" tvg-id="" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-2.png",RTM PARIS 2024 OLYMPICS 2
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/index.m3u8
+
+#EXTINF:-1 tvg-chno="713" tvg-id="" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-3.png",RTM PARIS 2024 OLYMPICS 3
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/index.m3u8
+
+#EXTINF:-1 tvg-chno="714" tvg-id="" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-4.png",RTM PARIS 2024 OLYMPICS 4
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/index.m3u8
+
+#EXTINF:-1 tvg-chno="715" tvg-id="" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-5.png",RTM PARIS 2024 OLYMPICS 5
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/index.m3u8
+
+#EXTINF:-1 tvg-chno="716" tvg-id="" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-6.png",RTM PARIS 2024 OLYMPICS 6
+https://d30aylox5wvifh.cloudfront.net/event/smil:event1/index.m3u8
+
 
 #######################################################################################################################################################################
 
