@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://aqfadtv.xyz/epg" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml"
-billed-msg="LIVE TV - Updated 26 August 2024" refresh="3600"
+billed-msg="LIVE TV - Updated 4 Sept 2024" refresh="3600"
 
 
 ##############################################SOOKA TV#############################################
@@ -1044,7 +1044,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUVXhOalE0TWpndFptSmpOaTAwTW1JNUxXRmhZbVV0TUdVeE9USTVOV0UxTkRObCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNTI1NDk4MSwiaWF0IjoxNzI0NjUwOTgxfQ.DCB9tjaAG3JVYmF9LkUUHJBVgaBazEktz-usmW8JYxQ"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkyUXpNMlU1TjJRdE0yUTJaaTAwTkRReExXSXdOall0TUdabVl6YzNZakEzTTJSaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyNTk1MzEyNiwiaWF0IjoxNzI1MzQ5MTI2fQ.bNQAUOICCL-R1S50-69bE2xLETLBGYmYkVYFAz-3vp0"}
 #EXTINF:-1 tvg-id="AstroSuperSport1.my" ch-number="811" tvg-name="Astro SuperSport" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 811 Astro SuperSport 1
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
@@ -1055,7 +1055,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUVXhOalE0TWpndFptSmpOaTAwTW1JNUxXRmhZbVV0TUdVeE9USTVOV0UxTkRObCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNTI1NDk4MSwiaWF0IjoxNzI0NjUwOTgxfQ.DCB9tjaAG3JVYmF9LkUUHJBVgaBazEktz-usmW8JYxQ"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkyUXpNMlU1TjJRdE0yUTJaaTAwTkRReExXSXdOall0TUdabVl6YzNZakEzTTJSaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyNTk1MzEyNiwiaWF0IjoxNzI1MzQ5MTI2fQ.bNQAUOICCL-R1S50-69bE2xLETLBGYmYkVYFAz-3vp0"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1064,7 +1064,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUVXhOalE0TWpndFptSmpOaTAwTW1JNUxXRmhZbVV0TUdVeE9USTVOV0UxTkRObCIsIndtb3BpZCI6MzIsImV4cCI6MTcyNTI1NDk4MSwiaWF0IjoxNzI0NjUwOTgxfQ.DCB9tjaAG3JVYmF9LkUUHJBVgaBazEktz-usmW8JYxQ"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkyUXpNMlU1TjJRdE0yUTJaaTAwTkRReExXSXdOall0TUdabVl6YzNZakEzTTJSaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyNTk1MzEyNiwiaWF0IjoxNzI1MzQ5MTI2fQ.bNQAUOICCL-R1S50-69bE2xLETLBGYmYkVYFAz-3vp0"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
