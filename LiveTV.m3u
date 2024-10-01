@@ -88,8 +88,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PhnVS3vNi7M2d2/hNtSPVw", "kid":"mXADjvbFSOOXaPOh/29QgQ" } ], "type":"temporary" }
-https://tglmp03.akamaized.net/out/v1/a3bd2249fdd0439b855a8a0fb0885730/manifest.mpd
+#https://tglmp03.akamaized.net/out/v1/a3bd2249fdd0439b855a8a0fb0885730/manifest.mpd
+https://tinyurl.com/25zf7k62
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
