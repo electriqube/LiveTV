@@ -933,6 +933,30 @@ https://d30aylox5wvifh.cloudfront.net/event/smil:event1/index.m3u8
 
 ##########################################################SPORTS##########################################################
 
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png", Astro Live Event 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png", Astro Live Event 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png", Astro Live Event 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+
+
+
 #EXTINF:-1 tvg-id="TVSUKAN" ch-number="111" tvg-name="SUKAN RTM" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/SPORTS.png" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
@@ -967,30 +991,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5149/default_primary.mp
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dYgj5Oq7bkyMA20HPbRrjA","kid":"wOGASqHZ/ZxBxBvw9hpfEA"}],"type":"temporary"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
-
-
-#EXTINF:-1 tvg-id="AOTGLive1" ch-number="795" group-title="SPORTS" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/SUPERSPORT.png",795 Astro Supersport
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ff90rhBkxfL7ANKZX6iJVQ", "kid":"yxiUWSXmXUEfu5htclMQEA" } ], "type":"temporary" }
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AOTGLive1" ch-number="796" group-title="SPORTS" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/SUPERSPORT.png",796 Astro Supersport
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Xtcnw/KLrFmqPlkU9a1FXA", "kid":"irAU3gPDGoSoNVg8NIpeEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AOTGLive1" ch-number="796" group-title="SPORTS" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/SUPERSPORT.png",797 Astro Supersport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd   
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd 
   
 #EXTINF:-1 tvg-id="AOTGLive1" ch-number="826" group-title="SPORTS" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/SUPERSPORT.png",826 Astro Supersport
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1202,12 +1203,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1" group-title="ASTRO" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/ASTRO.png" tvg-logo=" ", 100 Live Astro 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
   
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1" group-title="ASTRO" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/ASTRO.png" tvg-logo=" ", 100 Live Astro 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV1" group-title="ASTRO" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2081,5 +2082,114 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="SPORTS EXTRA",Sony TEN 5 HD 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta17_HD_HVC/GO3_LIVE_DASH_HVC/Setanta17_HD_HVC.mpd
+
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta18_HD_HVC/GO3_LIVE_DASH_HVC/Setanta18_HD_HVC.mpd
+
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH_HVC/Setanta19_HD_HVC.mpd
+
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta20_HD_HVC/GO3_LIVE_DASH_HVC/Setanta20_HD_HVC.mpd
+
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta21_HD_HVC/GO3_LIVE_DASH_HVC/Setanta21_HD_HVC.mpd
+
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta22_HD_HVC/GO3_LIVE_DASH_HVC/Setanta22_HD_HVC.mpd
+
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta23_HD_HVC/GO3_LIVE_DASH_HVC/Setanta23_HD_HVC.mpd
+
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta24_HD_HVC/GO3_LIVE_DASH_HVC/Setanta24_HD_HVC.mpd
+
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta25_HD_HVC/GO3_LIVE_DASH_HVC/Setanta25_HD_HVC.mpd
+
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta26_HD_HVC/GO3_LIVE_DASH_HVC/Setanta26_HD_HVC.mpd
+
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH_HVC/Setanta27_HD_HVC.mpd
+
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 12
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta28_HD_HVC/GO3_LIVE_DASH_HVC/Setanta28_HD_HVC.mpd
+
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 13
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta29_HD_HVC/GO3_LIVE_DASH_HVC/Setanta29_HD_HVC.mpd
+
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 14
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta30_HD_HVC.mpd
+
+#EXTINF:-1 group-title="SPORTS EXTRA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 15
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta31_HD_HVC.mpd
+
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml","https://raw.githubusercontent.com/matthuisman/i.mjh.nz/54e4492de98077dcb54f9b410370647444fdacff/PlutoTV/all.xml.gz"
