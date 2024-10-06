@@ -75,6 +75,13 @@ https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=496
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default.mpd
 
 
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/496.png" group-title="TAMIL" , Vijay TV 4 (INDIA)
+#EXTVLCOPT:http-user-agent=@RioIptv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=496
+https://tplay-mpd.vercel.app/496.mpd
+
+
 #EXTINF:-1 ch-number="221" tvg-name="Star Vijay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="TAMIL" tvg-id="221" ch-number=" " tvg-name="221",221 Star Vijay HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
