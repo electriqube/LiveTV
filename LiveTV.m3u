@@ -54,6 +54,13 @@ https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 
 ########################################################TAMIL########################################################
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL" ,Vijay TV 1 (INDIA)
+http://195.26.87.217/live.ts?channelId=43419&uid=7435&deviceMac=00:1A:79:B7:2F:EA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL" ,Vijay TV 2 (INDIA)
+http://ktv.im:8080/1234512345/1234512345/82897
+
+
 #EXTINF:-1 tvg-id="241" ch-number="241" tvg-name="ABO Movies Thangathirai" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/TAMIL.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/ABO_Movies.png" group-title="TAMIL",241 Box Office Thangathirai
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
