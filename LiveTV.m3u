@@ -948,30 +948,6 @@ https://d30aylox5wvifh.cloudfront.net/event/smil:event1/index.m3u8
 
 ##########################################################SPORTS##########################################################
 
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png", Astro Live Event 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png", Astro Live Event 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png", Astro Live Event 3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
-
-
-
 #EXTINF:-1 tvg-id="TVSUKAN" ch-number="111" tvg-name="SUKAN RTM" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/SPORTS.png" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
@@ -1208,6 +1184,29 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 #EXTINF:-1 tvg-id="819" ch-number=" " tvg-name="beIN Sports 3" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",819 beINSports 3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
+
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png", Astro Live Event 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png", Astro Live Event 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/120px-Astro_logo_-_Magenta_-_Copy.png", Astro Live Event 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
 
 ###############################################################################################################################################
