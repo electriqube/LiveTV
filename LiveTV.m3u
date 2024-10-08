@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://avkb.short.gy/tsepg.xml.gz" , "https://aqfadtv.xyz/epg" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
-billed-msg="LIVE TV - Updated 1 Oct 2024" refresh="3600"
+billed-msg="LIVE TV - Updated 8 Oct 2024" refresh="3600"
 
 
 ##############################################SOOKA TV#############################################
