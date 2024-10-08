@@ -2039,8 +2039,29 @@ https://allinonereborn.com/allinone.php?id=2512
 #EXTINF:-1 tvg-id="474415" tvg-logo="" group-title="PREMIER LEAGUE EXTRA",SKY SPORT PREMIER LEAGUE FHD
 https://allinonereborn.com/allinone.php?id=474415
 
-#EXTINF:-1 tvg-id="2006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/2006.png" group-title="PREMIER LEAGUE EXTRA",CANAL+ PREMIUM FHD
-https://allinonereborn.com/allinone.php?id=2006
+#EXTINF:-1 tvg-id="8223" tvg-logo="" group-title="PREMIER LEAGUE EXTRA",CANAL+ PREMIER LEAGUE HD
+https://allinonereborn.com/allinone.php?id=8223
+
+#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="PREMIER LEAGUE EXTRA", USA Network (East)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91bf2d81b9e13701ac667915641121b8:d0cc2082132b430ad5a8bc4f31c9b772
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="PREMIER LEAGUE EXTRA", USA Network (West)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Premier League TV - Peacock
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 ####################################################################################################################################################
 
