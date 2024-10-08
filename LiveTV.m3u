@@ -185,7 +185,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2
 https://allinonereborn.com/allinone.php?id=3383
 
 #EXTINF:-1 tvg-id="3384" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL" ,Vijay TV 6 (INDIA)
-https://allinonereborn.com/allinone.php?id=338
+https://allinonereborn.com/allinone.php?id=3384
 
 
 
@@ -2021,6 +2021,31 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 
 ####################################################################################################################################################
+
+
+
+
+#######################################################PREMIER LEAGUE EXTRA#################################################################################
+
+#EXTINF:-1 tvg-id="8866" tvg-logo="" group-logo="https://m.media-amazon.com/images/I/61FHEI0USwL.png" group-title="PREMIER LEAGUE EXTRA",SKY SPORTS PREM HD
+https://allinonereborn.com/allinone.php?id=8866
+
+#EXTINF:-1 tvg-id="748" tvg-logo="" group-title="PREMIER LEAGUE EXTRA",SUPERSPORT PREMIER LEAGUE
+https://allinonereborn.com/allinone.php?id=748
+
+#EXTINF:-1 tvg-id="2512" tvg-logo="" group-title="PREMIER LEAGUE EXTRA",SUPERSPORT PREMIER LEAGUE | AF
+https://allinonereborn.com/allinone.php?id=2512
+
+#EXTINF:-1 tvg-id="474415" tvg-logo="" group-title="PREMIER LEAGUE EXTRA",SKY SPORT PREMIER LEAGUE FHD
+https://allinonereborn.com/allinone.php?id=474415
+
+#EXTINF:-1 tvg-id="2006" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/2006.png" group-title="PREMIER LEAGUE EXTRA",CANAL+ PREMIUM FHD
+https://allinonereborn.com/allinone.php?id=2006
+
+####################################################################################################################################################
+
+
+
 
 #######################################################SPORTS EXTRA#################################################################################
 
