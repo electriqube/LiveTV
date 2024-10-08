@@ -2063,6 +2063,46 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
+
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png",Hub Premier 1 FHD
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=569105&extension=ts
+#https://7pal.short.gy/HPremier1
+
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png",Hub Premier 2 FHD
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=569106&extension=ts
+#https://7pal.short.gy/HPremier2
+
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png",Hub Premier 3 FHD
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=569107&extension=ts
+#https://7pal.short.gy/HPremier3
+
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://www.theSportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",HUB Premier 2 UHD
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=569043&extension=ts
+#https://7pal.short.gy/HubP2uhd
+
+
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://i.imgur.com/LIxOI3U.png",Astro Super Sport UHD
+http://ledir.thund.re/play/live.php?mac=00:1A:79:00:09:76&stream=554729&extension=ts
+#https://7pal.short.gy/astrouhd
+
+
+
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro SuperSport 1 FHD
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:6B:C0:8E&stream=1002745&extension=ts
+#https://7pal.short.gy/astross1
+
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",Astro SuperSport 2 FHD
+http://mytvhd.ath.cx:8080/live/dmtn/KL86djT2jb@js26FD/50918.ts
+#https://7pal.short.gy/astross2
+
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro SuperSport 3 FHD
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:22:81:F7&stream=1002747&extension=ts
+#https://7pal.short.gy/astross3
+
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4 FHD
+https://7pal.short.gy/astross4
+
+
 ####################################################################################################################################################
 
 
