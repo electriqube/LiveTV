@@ -116,10 +116,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="202" ch-number="202" tvg-name="Astro Vinmeen" group-title="TAMIL" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen
-https://fdq1.short.gy/202_2105
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default.mpd
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -170,6 +172,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="ts275" group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11197-j9i4fbbs-v2/imageContent-11197-j9i4fbbs-m4.png",Vijay Super
 http://dream8k.pro:80/Ada/Ada/164443
+
+#EXTINF:-1 tvg-id="ktv.in" group-title="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
+http://dream8k.pro:80/Ada/Ada/161881
 
 
 #EXTINF:-1 tvg-id="ts527" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL" ,Vijay TV 1 (INDIA)
@@ -893,61 +898,42 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=center
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94fae17e4d15e1cd0bdc7ced096fa510:e19b697fdedc5b0cf0ad5068de13d0a9
 #EXTINF:-1 tvg-id="OLY1" ch-number="780" tvg-name="780 Paris 2024" group-logo="https://cdn.mos.cms.futurecdn.net/ydFKf4yChcVEP5Hw4PzduH.jpg" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="OLYMPIC PARIS 2024", 780 Paris 2024
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5150/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5150/default_primary.mpd
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1604ec11358c6c88102bef8ab5bdca10:c6a09b1d801d3631cd77da486578ddf6
 #EXTINF:-1 tvg-id="OLY2" ch-number="781" tvg-name="781 Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="OLYMPIC PARIS 2024", 781 Paris 2024
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5151/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5151/default_primary.mpd
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6afe246b3db067df837fafc06778d10:7c7a98236c7dcce43f1269190060b8a0
 #EXTINF:-1 tvg-id="OLY3" ch-number="782" tvg-name="782 Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="OLYMPIC PARIS 2024", 782 Paris 2024
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5152/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5152/default_primary.mpd
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64a8f08490d91ded89f977d85878d110:a1c391c1ea515756d5272972d6bbd729
 #EXTINF:-1 tvg-id="OLY4" ch-number="783" tvg-name="783 Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="OLYMPIC PARIS 2024", 783 Paris 2024
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5153/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5153/default_primary.mpd
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8cb67b7fa34de61532947254309d4d10:288e7f89c9c8726d880753ddaf9e70ed
 #EXTINF:-1 tvg-id="OLY5" ch-number="784" tvg-name="784 Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="OLYMPIC PARIS 2024", 784 Paris 2024
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5154/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5154/default_primary.mpd
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5155
 #EXTINF:-1 tvg-id="OLY6" ch-number="785" tvg-name="785 Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="OLYMPIC PARIS 2024", 785 Paris 2024
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5155/default_primary.mpd
-
-
-#EXTINF:-1 tvg-chno="711" tvg-id="" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-1.png",RTM PARIS 2024 OLYMPICS 1
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/index.m3u8
-
-#EXTINF:-1 tvg-chno="712" tvg-id="" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-2.png",RTM PARIS 2024 OLYMPICS 2
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/index.m3u8
-
-#EXTINF:-1 tvg-chno="713" tvg-id="" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-3.png",RTM PARIS 2024 OLYMPICS 3
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/index.m3u8
-
-#EXTINF:-1 tvg-chno="714" tvg-id="" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-4.png",RTM PARIS 2024 OLYMPICS 4
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/index.m3u8
-
-#EXTINF:-1 tvg-chno="715" tvg-id="" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-5.png",RTM PARIS 2024 OLYMPICS 5
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/index.m3u8
-
-#EXTINF:-1 tvg-chno="716" tvg-id="" group-title="OLYMPIC PARIS 2024" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-6.png",RTM PARIS 2024 OLYMPICS 6
-https://d30aylox5wvifh.cloudfront.net/event/smil:event1/index.m3u8
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5155/default_primary.mpd
 
 
 #######################################################################################################################################################################
@@ -1261,7 +1247,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 #####################################################################ASTRO###############################################################################
 
 
-#EXTINF:-1 tvg-id="TV1" group-title="ASTRO" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
+#EXTINF:-1 tvg-id="TV1" group-title="ASTRO" ch-number="101" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/ASTRO.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1407,10 +1393,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
+
 #EXTINF:-1 tvg-id="202" ch-number=" " tvg-name="Astro Vinmeen" group-title="ASTRO" tvg-logo="https://iili.io/1NuZbI.png",202 Astro Vinmeen
-https://fdq1.short.gy/202_2105
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default.mpd
   
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
