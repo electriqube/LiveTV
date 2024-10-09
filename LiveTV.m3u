@@ -1262,15 +1262,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 #####################################################################ASTRO###############################################################################
 
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1" group-title="ASTRO" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/ASTRO.png" tvg-logo=" ", 100 Live Astro 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1" group-title="ASTRO" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/ASTRO.png" tvg-logo=" ", 100 Live Astro 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8S3l8N6SxS+EFwXZ1kSdOg", "kid":"3nYc0oWqKxwWINFt263gEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV1" group-title="ASTRO" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
