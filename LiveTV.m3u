@@ -179,10 +179,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4809&deviceMac=00:1A:79:C8:
 http://ktv.im:8080/1234512345/1234512345/82897
 
 #EXTINF:-1 tvg-id="ts496" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL" ,Vijay TV 3 (INDIA)
-http://tv.cloudcdn.me/live.ts?channelId=43419&uid=14505&deviceMac=00:1A:79:A7:53:75
+#http://tv.cloudcdn.me/live.ts?channelId=43419&uid=14505&deviceMac=00:1A:79:A7:53:75
 
 #EXTINF:-1 tvg-id="ts496" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL" ,Vijay TV 4 (INDIA)
-http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2:B5:0C
+#http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2:B5:0C
 
 
 
@@ -2016,20 +2016,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 #######################################################PREMIER LEAGUE EXTRA#################################################################################
 
-#EXTINF:-1 tvg-id="8866" tvg-logo="" group-logo="https://m.media-amazon.com/images/I/61FHEI0USwL.png" group-title="PREMIER LEAGUE EXTRA",SKY SPORTS PREM HD
-https://allinonereborn.com/allinone.php?id=8866
-
-#EXTINF:-1 tvg-id="748" tvg-logo="" group-title="PREMIER LEAGUE EXTRA",SUPERSPORT PREMIER LEAGUE
-https://allinonereborn.com/allinone.php?id=748
-
-#EXTINF:-1 tvg-id="2512" tvg-logo="" group-title="PREMIER LEAGUE EXTRA",SUPERSPORT PREMIER LEAGUE | AF
-https://allinonereborn.com/allinone.php?id=2512
-
-#EXTINF:-1 tvg-id="474415" tvg-logo="" group-title="PREMIER LEAGUE EXTRA",SKY SPORT PREMIER LEAGUE FHD
-https://allinonereborn.com/allinone.php?id=474415
-
-#EXTINF:-1 tvg-id="8223" tvg-logo="" group-title="PREMIER LEAGUE EXTRA",CANAL+ PREMIER LEAGUE HD
-https://allinonereborn.com/allinone.php?id=8223
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="PREMIER LEAGUE EXTRA", USA Network (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2065,7 +2051,7 @@ http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:AB:69:
 http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=569107&extension=ts
 #https://7pal.short.gy/HPremier3
 
-#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://www.theSportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",HUB Premier 2 UHD
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png",HUB Premier 2 UHD
 http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:AB:69:C3&stream=569043&extension=ts
 #https://7pal.short.gy/HubP2uhd
 
