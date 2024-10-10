@@ -1969,7 +1969,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
 
 
-#######################################################PREMIER LEAGUE EXTRA#################################################################################
+#######################################################EPL EXTRA#################################################################################
 
 
 #EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Premier League TV - Peacock
@@ -2015,6 +2015,31 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+
+
+#EXTINF:-1 tvg-id="AstroSuperSport1.my" ch-number="811" tvg-name="Astro SuperSport" group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", 811 Astro SuperSport 1 (Temp)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
+https://mt26.aa.astro.com.my/linears-playback.astro.com.my/vsg/41Jqk8npIql1y0GVY54nH8vtDkBKLRkEFpF9H-BMWXQN0=3YDc/dash-wv/jitp-dashisowm/601/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" ch-number="812" tvg-name="Astro SuperSport 2" group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 812 Astro SuperSport 2 (Temp)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
+https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/41hT_kYxeP-gk-Awk_0YMDJ8EYNfSIawXVQ3pFufNiovs=ioxE/dash-wv/jitp-dashisowm/2104/default_primary.mpd
+
+
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" ch-number="813" tvg-name="Astro SuperSport 3" group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 813 Astro SuperSport 3 (Temp)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
+https://4c0a6c7981954190aba1739e27e3dec8.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH28-dash/vsg/410go6e608fdEXZRprJDkif-XWfTZAZvqKTlt8OoiLPhE=Jvfq/dash-wv/jitp-dashisowm/2701/default_primary.mpd
+
 
 ####################################################################################################################################################
 
