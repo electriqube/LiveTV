@@ -172,33 +172,32 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 
-#EXTINF:-1 tvg-id="ts275" group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11197-j9i4fbbs-v2/imageContent-11197-j9i4fbbs-m4.png",Vijay Super
-http://dream8k.pro:80/Tracy123/Tracy123/164443
 
 
-#EXTINF:-1 tvg-id="ts527" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL" ,Vijay TV 1 (INDIA)
+#EXTINF:-1 tvg-id="ts527" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL" ,Vijay TV 1 (ID)
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4809&deviceMac=00:1A:79:C8:1A:B8
 
-#EXTINF:-1 tvg-id="ts527" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL" ,Vijay TV 2 (INDIA)
+#EXTINF:-1 tvg-id="ts527" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL" ,Vijay TV 2 (ID)
 http://ktv.im:8080/1234512345/1234512345/82897
 
-#EXTINF:-1 tvg-id="ts496" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL" ,Vijay TV 3 (INDIA)
+#EXTINF:-1 tvg-id="ts496" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL" ,Vijay TV 3 (ID)
 #http://tv.cloudcdn.me/live.ts?channelId=43419&uid=14505&deviceMac=00:1A:79:A7:53:75
 
-#EXTINF:-1 tvg-id="ts496" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL" ,Vijay TV 4 (INDIA)
+#EXTINF:-1 tvg-id="ts496" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TAMIL" ,Vijay TV 4 (ID)
 #http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=12449&deviceMac=00:1A:79:A2:B5:0C
 
 #EXTINF:-1  tvg-id="11" tvg-logo="https://tatalogo.pages.dev/1182.png" tvg-chno="11" group-title="Tamil",Zee Thirai (ID)
 http://sansat.net:88/live/02029727163269/HLzTNH41jpLM7SF/100171.ts
 
-#EXTINF:-1  tvg-id="20" tvg-logo="https://i.ibb.co/6wSYv93/Vijay-Takkar.png" tvg-chno="20" group-title="Tamil",Vijay Tukker (ID)
-https://stream.vstartv.org:3511/hybrid/play.m3u8
+#EXTINF:-1  tvg-id="191" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vijay-super-hk-in.png" tvg-chno="122" group-title="Tamil",Vijay Super (ID)
+http://sansat.net:88/live/02029727163269/HLzTNH41jpLM7SF/100167.ts
 
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/496.png" group-title="Tamil",Star Vijay HD 2 (ID)
+#EXTVLCOPT:http-user-agent=@RioIptv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Arunjunan07
-#KODIPROP:inputstream.adaptive.license_key=https://tp.babel-in.xyz/keys/tpck.php?id=496
-#EXTINF:-1 tvg-id="496" group-title="Tamil", tvg-logo="https://tatalogo.pages.dev/496.png", Star Vijay HD (ID)
-http://103.165.108.134/tata/496.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=496
+https://tplay-mpd.vercel.app/496.mpd
+
 
 #######################################################################################################################################################################
 
