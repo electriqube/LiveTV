@@ -192,11 +192,12 @@ http://sansat.net:88/live/02029727163269/HLzTNH41jpLM7SF/100171.ts
 #EXTINF:-1  tvg-id="191" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vijay-super-hk-in.png" tvg-chno="122" group-title="Tamil",Vijay Super (ID)
 http://sansat.net:88/live/02029727163269/HLzTNH41jpLM7SF/100167.ts
 
-#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/496.png" group-title="Tamil",Star Vijay HD 2 (ID)
-#EXTVLCOPT:http-user-agent=@RioIptv
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=496
-https://tplay-mpd.vercel.app/496.mpd
+#EXTVLCOPT:http-user-agent=Arunjunan07
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MXhVGmuzdVc2OYONbleiDA", "kid":"FVKL6azLXkCSHtOq9loBGA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="496" group-title="Entertainment", tvg-logo="https://tatalogo.pages.dev/496.png", Star Vijay HD (ID2)
+http://103.165.108.134/tata/496.mpd
 
 
 #######################################################################################################################################################################
