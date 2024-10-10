@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" , "https://aqfadtv.xyz/epg" , "https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" , "https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
-billed-msg="LIVE TV - Updated 8 Oct 2024" refresh="3600"
+billed-msg="LIVE TV - Updated 10 Oct 2024" refresh="3600"
 
 
 ##############################################SOOKA TV#############################################
@@ -1061,47 +1061,14 @@ https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
 
+#EXTINF:-1 tvg-id="AstroSuperSport1.my" ch-number="811" tvg-name="Astro SuperSport" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 811 Astro SuperSport 1 (2)
+https://fdq1.short.gy/assp1
 
-#EXTINF:-1 tvg-id="AstroSuperSport1.my" ch-number="811" tvg-name="Astro SuperSport" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 811 Astro SuperSport 1 (Backup 1)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1722
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" ch-number="812" tvg-name="Astro SuperSport 2" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 812 Astro SuperSport 2 (2)
+https://fdq1.short.gy/assp2
 
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" ch-number="812" tvg-name="Astro SuperSport 2" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 812 Astro SuperSport 2 (Backup 1)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1721
-
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" ch-number="813" tvg-name="Astro SuperSport 3" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 813 Astro SuperSport 3 (Backup 1)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1720
-http://xtv.ooo:8080/djshub654@/djshub456@/352089
-
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" ch-number="814" tvg-name="Astro SuperSport 4" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 814 Astro SuperSport 4 (Backup 1)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://vo01.mohdtv.com:8880/hdtv40e7933819a2/60335062/1719
-http://xtv.ooo:8080/djshub654@/djshub456@/352090
-
-
-
-#EXTINF:-1 tvg-id="AstroSuperSport1.my" ch-number="811" tvg-name="Astro SuperSport" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 811 Astro SuperSport 1 (Backup 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" ch-number="812" tvg-name="Astro SuperSport 2" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 812 Astro SuperSport 2 (Backup 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" ch-number="813" tvg-name="Astro SuperSport 3" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 813 Astro SuperSport 3 (Backup 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" ch-number="814" tvg-name="Astro SuperSport 4" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 814 Astro SuperSport 4 (Backup 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
-
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" ch-number="813" tvg-name="Astro SuperSport 3" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 813 Astro SuperSport 3 (2)
+https://fdq1.short.gy/assp3
 
 
 
@@ -2048,24 +2015,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-
-
-#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro SuperSport 1 FHD
-http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:22:81:F7&stream=1002745&extension=ts
-#https://7pal.short.gy/astross1
-
-#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",Astro SuperSport 2 FHD
-http://mytvhd.ath.cx:8080/live/dmtn/KL86djT2jb@js26FD/50918.ts
-#https://7pal.short.gy/astross2
-
-#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro SuperSport 3 FHD
-http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:22:81:F7&stream=1002747&extension=ts
-#https://7pal.short.gy/astross3
-
-#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4 FHD
-https://7pal.short.gy/astross4
-
 
 ####################################################################################################################################################
 
