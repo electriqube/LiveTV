@@ -2044,6 +2044,13 @@ https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
 https://4c0a6c7981954190aba1739e27e3dec8.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH28-dash/vsg/410go6e608fdEXZRprJDkif-XWfTZAZvqKTlt8OoiLPhE=Jvfq/dash-wv/jitp-dashisowm/2701/default_primary.mpd
 
+#EXTINF:-1 tvg-id="DAZN1HD.uk" tvg-logo="https://rb.gy/98jmt0" group-title="PREMIER LEAGUE EXTRA" , DAZN 1 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://cors-proxy.cooks.fyi/https://dazn.bittv.workers.dev/dash/dazn-linear-045/stream.mpd
+
 
 ####################################################################################################################################################
 
