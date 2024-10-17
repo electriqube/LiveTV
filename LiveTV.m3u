@@ -1062,21 +1062,44 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 #EXTINF:-1 tvg-id="AstroSupersport3" ch-number="813" tvg-name="Astro SuperSport 3" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",813 Astro SuperSport 3
 https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" ch-number="814" tvg-name="Astro SuperSport 4" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", 814 Astro SuperSport 4
+
+
+#EXTINF:-1 tvg-id="AstroFootball" ch-number="814" tvg-name="AstroFootball" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png", 814 Astro Football
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" tvg-name="AstroBadminton" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png", 815 Astro Badminton
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd 
 
-#EXTINF:-1 tvg-id="AstroSuperSport1.my" ch-number="811" tvg-name="Astro SuperSport" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 811 Astro SuperSport 1 (2)
+#EXTINF:-1 tvg-id="AstroBadminton2" ch-number="816" tvg-name="AstroBadminton2" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/541_144.png", 816 Astro Badminton
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd 
+
+#EXTINF:-1 tvg-id="AstroSportsPlus" ch-number="817" tvg-name="AstroSportsPlus" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png", 817 Astro Sports Plus
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd 
+
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" ch-number="811" tvg-name="AstroPremierLeague" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png", 811 Astro Premier League (2)
 https://fdq1.short.gy/assp1
 
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" ch-number="812" tvg-name="Astro SuperSport 2" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 812 Astro SuperSport 2 (2)
+#EXTINF:-1 tvg-id="AstroPremierLeague2" ch-number="812" tvg-name="AstroPremierLeague2" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png", 812 Astro Premier League (2)
 https://fdq1.short.gy/assp2
 
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" ch-number="813" tvg-name="Astro SuperSport 3" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", 813 Astro SuperSport 3 (2)
+#EXTINF:-1 tvg-id="AstroGrandstand" ch-number="810" tvg-name="AstroGrandstand" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png", 810 Astro Grandstand (2)
 https://fdq1.short.gy/assp3
 
 
@@ -1137,21 +1160,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5125/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="beINSport" ch-number=" " tvg-name="beIN Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="SPORTS", 818 BeINSports
+#EXTINF:-1 tvg-id="beINSport" ch-number="820" tvg-name="beINSports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="SPORTS", 820 BeINSports
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="817" ch-number=" " tvg-name="beIN Sports 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="SPORTS",817 beINSports 2
+#EXTINF:-1 tvg-id="beINSports2" ch-number="821" tvg-name="beINSports2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="SPORTS",821 beINSports 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BCohvyNspymx40PtbgpjNw","kid":"IMiE747Saydi+LGnjy0ZEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="819" ch-number=" " tvg-name="beIN Sports 3" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",819 beINSports 3
+#EXTINF:-1 tvg-id="beINSports3" ch-number="822" tvg-name="beINSports3" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",822 beINSports 3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
 
@@ -1896,7 +1919,9 @@ https://d32ee6d372f04fd5bd07bc10fad73eca.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="ASTRO", 802 Astro Arena 2
 https://f902575eb01e4d0a94dc44e7a2ed040b.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH23-dash/default_primary.mpd
   
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" ch-number="814" tvg-name="Astro SuperSport 4" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", 814 Astro SuperSport 4
+#EXTINF:-1 tvg-id="AstroFootball" ch-number="814" tvg-name="AstroFootball" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png", 814 Astro Football
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
