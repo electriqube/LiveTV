@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz,https://avkb.short.gy/jioepg.xml.gz" refresh="3600" billed-msg="LIVE TV - Updated 17 Oct 2024"
+#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz,https://avkb.short.gy/jioepg.xml.gz" refresh="3600"
 
 
 ##############################################SOOKA TV#############################################
