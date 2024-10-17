@@ -963,12 +963,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 #EXTINF:-1 tvg-id="701" group-title="SPORTS"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848", 701 Unifi Sports 1 HD
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gFWGBqE6mdLFQ4ctiJnO0A","kid":"icEMfvCvFFvn1uiN7AkLEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="AstroSuperSport.my" ch-number="808" tvg-name="AstroSuperSport" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="SPORTS", 808 Astro Supersports
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
+
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -995,12 +990,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 
   
-#EXTINF:-1 tvg-id="AOTGLive1" ch-number="826" group-title="SPORTS" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/SUPERSPORT.png",826 Astro Supersport
+#EXTINF:-1 tvg-id="AOTGLive1" ch-number="826" group-title="SPORTS" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/SUPERSPORT.png", Astro Supersport
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HO5FQCla5tbFGcUEGoDxwA", "kid":"jQKveknkSzGXZNgR0BjF6A" } ], "type":"temporary" }
-https://linear03-playback.sooka.my/CH3/masterCH3.mpd
+#https://linear03-playback.sooka.my/CH3/masterCH3.mpd
 
 #EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-name="Astro Arena" group-title="SPORTS" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", 801 Astro Arena 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1023,7 +1018,7 @@ https://f902575eb01e4d0a94dc44e7a2ed040b.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e 
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6ZGtNekZtT1RrdE9XUm1aUzAwT0ROaUxXSTRNRFF0WTJGaVpqYzVaamxqTldVMiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQxNzUwNiwiaWF0IjoxNzI4ODEzNTA2fQ.0spDYm8GJ1zuDIhbmKeaEZnVD08rsX_2CYEMqbjH5N4"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlptSXpNemc0T1dFdE5UWTNNeTAwT1dRMUxUazBNV1V0WVdFeU1UQmxORFZtT1dSaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQzMTgzNiwiaWF0IjoxNzI4ODI3ODM2fQ.WXelfJ2hCk0KXTY3zZTphA0dX3rj48quS5YVcB9q4nM"}
 #EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-name="Astro Arena Bola" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="SPORTS", 803 Astro Arena Bola
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
@@ -1031,24 +1026,24 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6ZGtNekZtT1RrdE9XUm1aUzAwT0ROaUxXSTRNRFF0WTJGaVpqYzVaamxqTldVMiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQxNzUwNiwiaWF0IjoxNzI4ODEzNTA2fQ.0spDYm8GJ1zuDIhbmKeaEZnVD08rsX_2CYEMqbjH5N4"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlptSXpNemc0T1dFdE5UWTNNeTAwT1dRMUxUazBNV1V0WVdFeU1UQmxORFZtT1dSaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQzMTgzNiwiaWF0IjoxNzI4ODI3ODM2fQ.WXelfJ2hCk0KXTY3zZTphA0dX3rj48quS5YVcB9q4nM"}
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-name="Astro Arena Bola 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="SPORTS",804 Astro Arena Bola 2
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6ZGtNekZtT1RrdE9XUm1aUzAwT0ROaUxXSTRNRFF0WTJGaVpqYzVaamxqTldVMiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQxNzUwNiwiaWF0IjoxNzI4ODEzNTA2fQ.0spDYm8GJ1zuDIhbmKeaEZnVD08rsX_2CYEMqbjH5N4"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlptSXpNemc0T1dFdE5UWTNNeTAwT1dRMUxUazBNV1V0WVdFeU1UQmxORFZtT1dSaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQzMTgzNiwiaWF0IjoxNzI4ODI3ODM2fQ.WXelfJ2hCk0KXTY3zZTphA0dX3rj48quS5YVcB9q4nM"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" }], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroArenaBola3" ch-number="807" tvg-name="Astro Arena Bola 3" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogo/ARENABOLA3.png" group-title="SPORTS", 807 Astro Arena Bola 3
+#EXTINF:-1 tvg-id="AstroArenaBola3" ch-number="807" tvg-name="Astro Arena Bola 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/534_144.png" group-title="SPORTS", 807 Astro Arena Bola 3
 https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6ZGtNekZtT1RrdE9XUm1aUzAwT0ROaUxXSTRNRFF0WTJGaVpqYzVaamxqTldVMiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQxNzUwNiwiaWF0IjoxNzI4ODEzNTA2fQ.0spDYm8GJ1zuDIhbmKeaEZnVD08rsX_2CYEMqbjH5N4"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlptSXpNemc0T1dFdE5UWTNNeTAwT1dRMUxUazBNV1V0WVdFeU1UQmxORFZtT1dSaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQzMTgzNiwiaWF0IjoxNzI4ODI3ODM2fQ.WXelfJ2hCk0KXTY3zZTphA0dX3rj48quS5YVcB9q4nM"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
@@ -1059,12 +1054,12 @@ https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6ZGtNekZtT1RrdE9XUm1aUzAwT0ROaUxXSTRNRFF0WTJGaVpqYzVaamxqTldVMiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQxNzUwNiwiaWF0IjoxNzI4ODEzNTA2fQ.0spDYm8GJ1zuDIhbmKeaEZnVD08rsX_2CYEMqbjH5N4"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlptSXpNemc0T1dFdE5UWTNNeTAwT1dRMUxUazBNV1V0WVdFeU1UQmxORFZtT1dSaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQzMTgzNiwiaWF0IjoxNzI4ODI3ODM2fQ.WXelfJ2hCk0KXTY3zZTphA0dX3rj48quS5YVcB9q4nM"}
 #EXTINF:-1 tvg-id="AstroPremierLeague" ch-number="811" tvg-name="AstroPremierLeague" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png", 811 Astro Premier League
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6ZGtNekZtT1RrdE9XUm1aUzAwT0ROaUxXSTRNRFF0WTJGaVpqYzVaamxqTldVMiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQxNzUwNiwiaWF0IjoxNzI4ODEzNTA2fQ.0spDYm8GJ1zuDIhbmKeaEZnVD08rsX_2CYEMqbjH5N4"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlptSXpNemc0T1dFdE5UWTNNeTAwT1dRMUxUazBNV1V0WVdFeU1UQmxORFZtT1dSaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTQzMTgzNiwiaWF0IjoxNzI4ODI3ODM2fQ.WXelfJ2hCk0KXTY3zZTphA0dX3rj48quS5YVcB9q4nM"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1099,8 +1094,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gFWGBqE6mdLFQ4ctiJnO0A","kid":"icEMfvCvFFvn1uiN7AkLEA"}],"type":"temporary"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="AstroGrandstand" ch-number="810" tvg-name="AstroGrandstand" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png", 810 Astro Grandstand (2)
@@ -1216,12 +1211,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 #EXTINF:-1 tvg-id="PremierSports" ch-number="833" tvg-name="Premier Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="SPORTS",833 Premier Sports
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
-
-#EXTINF:-1 tvg-id="unifiSports 2" group-title="SPORTS" tvg-logo="https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/unifi-Sports-2.png",UnifiSports 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MFKMTviClU5XB80QAdZhIQ","kid":"DLxNO0+9mvUSrLJIi7QpEA"}],"type":"temporary"}
@@ -1901,7 +1890,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dYgj5Oq7bkyMA20HPbRrjA","kid":"wOGASqHZ/ZxBxBvw9hpfEA"}],"type":"temporary"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
   
-#EXTINF:-1 tvg-id="AstroArena.my" ch-number="801" tvg-name="Astro Arena" group-title="ASTRO" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", 801 Astro Arena 
+#EXTINF:-1 tvg-id="AstroArena" ch-number="801" tvg-name="Astro Arena" group-title="ASTRO" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", 801 Astro Arena 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
