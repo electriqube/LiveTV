@@ -2051,6 +2051,13 @@ https://dazn.bittv.workers.dev/dash/dazn-linear-045/stream.mpd
 #EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://thumbor.prod.vidiocdn.com/WNbrafkmcf64UM-5pniUG-xObcI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7916/1439f9.png" group-title="PREMIER LEAGUE EXTRA",Liverpool FC TV
 http://ktv.im:8080/q3TrJFbKyq/awTvJxk2ct/1178
 
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png", Hub Premier 1 - Vpn Sg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-referrer=https://www.google.com.sg
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd|Origin=https://www.google.com.sg
+
 
 ####################################################################################################################################################
 
