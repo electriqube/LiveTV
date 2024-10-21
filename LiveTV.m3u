@@ -2053,10 +2053,13 @@ http://ktv.im:8080/q3TrJFbKyq/awTvJxk2ct/1178
 
 #EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png", Hub Premier 1 - Vpn Sg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#EXTVLCOPT:http-referrer=https://www.google.com.sg
+#EXTVLCOPT:http-access-control-allow-origin=*
+#EXTVLCOPT:access-control-allow-origin=*
+#EXTVLCOPT:http-access-control-allow-headers=Origin, X-Requested-With, Content-Type, Accept, Authorization
+#EXTVLCOPT:access-control-allow-headers=Origin, X-Requested-With, Content-Type, Accept, Authorization
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd|Origin=https://www.google.com.sg
+https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
 
 
 ####################################################################################################################################################
