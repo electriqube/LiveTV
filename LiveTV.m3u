@@ -2059,6 +2059,31 @@ https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ugi+dn4aXol3fmimmYqMGQ", "kid":"Hs4+y0FpnoVcbcmig5CCEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default.mpd
 
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://sm.pcmag.com/pcmag_me/review/p/peacock/peacock_rrp4.png", Peacock TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00226e7eaaff11da2d8943d8be63d53c:5f3f8dbf59f6cf547f128e27143a112c
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014686-716084-48f929ed0b4)/master.mpd
+
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://sm.pcmag.com/pcmag_me/review/p/peacock/peacock_rrp4.png", Peacock TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00226e7eaaff11da2d8943d8be63d53c:5f3f8dbf59f6cf547f128e27143a112c
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014686-716084-48f929ed0b4)/master.mpd
+
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://sm.pcmag.com/pcmag_me/review/p/peacock/peacock_rrp4.png", Peacock TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022079f2123336e463acee902a99592:453152d371becc99977b94bbe409dadc
+https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014684-716082-48f92804c32)/master.mpd
+
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://sm.pcmag.com/pcmag_me/review/p/peacock/peacock_rrp4.png", Peacock TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002226dd77aceedb611dc44f78f8ccc2:e8ca159fa45d9ba119c00b8e7e474c74
+https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014685-716083-48f928f8e73)/master.mpd
+
+#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://sm.pcmag.com/pcmag_me/review/p/peacock/peacock_rrp4.png", Peacock TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0022762832f45158cb0c7ca29060025c:b282b4a4fb1d341618c466b4287b889c
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014688-716086-48f92bd5536)/master.mpd
+
 
 ####################################################################################################################################################
 
