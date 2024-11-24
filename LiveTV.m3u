@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz,https://avkb.short.gy/jioepg.xml.gz" refresh="3600"
-billed-msg="LIVE TV - Updated 27 Oct 2024"
+billed-msg="LIVE TV - Updated 11 Nov 2024"
 
 ##############################################SOOKA TV#############################################
 
@@ -2027,7 +2027,7 @@ https://mt26.aa.astro.com.my/linears-playback.astro.com.my/vsg/41Jqk8npIql1y0GVY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
-https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/41hT_kYxeP-gk-Awk_0YMDJ_9kRTi6zyBS-ABAIItya_A=bqhq/dash-wv/jitp-dashisowm/2104/default_primary.mpd
+https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/41hT_kYxeP-gk-Awk_0YMDJ4is1iaNg62N4kFgmGwGGiI=rAdC/dash-wv/jitp-dashisowm/2104/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="DAZN1HD.uk" tvg-logo="https://rb.gy/98jmt0" group-title="PREMIER LEAGUE EXTRA" , DAZN 1 🇬🇧
