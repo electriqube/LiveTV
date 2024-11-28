@@ -62,6 +62,13 @@ https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cjf/CLNuE66j019PJXL6OQ","kid":"tyLZVr/GpFCM2R3micm4EA"}],"type":"temporary"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5125/default.mpd
 
+#EXTINF:-1 tvg-id="241" ch-number="241" tvg-name="ABO Movies Thangathirai" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/TAMIL.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/ABO_Movies.png" group-title="TAMIL",241 Box Office Thangathirai 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
+http://d1w72er2qn2fg9.cloudfront.net/thang.mpd
+
 
 #EXTINF:-1 ch-number="221" tvg-name="Star Vijay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="TAMIL" tvg-id="221" ch-number=" " tvg-name="221",221 Star Vijay HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -1199,11 +1206,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9988/default_primary.m
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
 
-
-#EXTINF:-1 tvg-id="MUTV.uk" ch-number=" " tvg-name="MUTV" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title="SPORTS",Man United TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-# http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/1102
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KGObz7XL7o/5yjmPz1v80A","kid":"cFurXmRbbXyVWIspUg+BEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="822" ch-number=" " tvg-name="Golf Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="SPORTS",822 NBC Golf 
@@ -2036,18 +2038,12 @@ https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.co
 https://dazn.bittv.workers.dev/dash/dazn-linear-045/stream.mpd
 
 
-#EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://thumbor.prod.vidiocdn.com/WNbrafkmcf64UM-5pniUG-xObcI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7916/1439f9.png" group-title="PREMIER LEAGUE EXTRA",Liverpool FC TV
-http://ktv.im:8080/q3TrJFbKyq/awTvJxk2ct/1178
+#EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://pbs.twimg.com/profile_images/1424372481872310281/2Xh7jA1L_400x400.png" group-title="PREMIER LEAGUE EXTRA",Liverpool FC TV
+http://localiptv.site:85/IptvGold32/Wkqknfnsdaje948KDwkslJW/774
 
-#EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png", Hub Premier 1 - Vpn Sg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#EXTVLCOPT:http-access-control-allow-origin=*
-#EXTVLCOPT:access-control-allow-origin=*
-#EXTVLCOPT:http-access-control-allow-headers=Origin, X-Requested-With, Content-Type, Accept, Authorization
-#EXTVLCOPT:access-control-allow-headers=Origin, X-Requested-With, Content-Type, Accept, Authorization
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
+#EXTINF:-1 tvg-id="MUTV.uk" ch-number=" " tvg-name="MUTV" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title="PREMIER LEAGUE EXTRA", Man United TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+http://localiptv.site:85/IptvGold32/Wkqknfnsdaje948KDwkslJW/775
 
 
 #EXTINF:-1 ch-number="809" tvg-id="ASSPPlus" group-title="PREMIER LEAGUE EXTRA"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/171_144.png",Astro Live Mix
@@ -2060,22 +2056,22 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5108/default.mpd
 #EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://sm.pcmag.com/pcmag_me/review/p/peacock/peacock_rrp4.png", Peacock TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00226e7eaaff11da2d8943d8be63d53c:5f3f8dbf59f6cf547f128e27143a112c
-https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014686-716084-48f929ed0b4)/master.mpd
+#https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014686-716084-48f929ed0b4)/master.mpd
 
 #EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://sm.pcmag.com/pcmag_me/review/p/peacock/peacock_rrp4.png", Peacock TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00226e7eaaff11da2d8943d8be63d53c:5f3f8dbf59f6cf547f128e27143a112c
-https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014686-716084-48f929ed0b4)/master.mpd
+#https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014686-716084-48f929ed0b4)/master.mpd
 
 #EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://sm.pcmag.com/pcmag_me/review/p/peacock/peacock_rrp4.png", Peacock TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0022079f2123336e463acee902a99592:453152d371becc99977b94bbe409dadc
-https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014684-716082-48f92804c32)/master.mpd
+#https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014684-716082-48f92804c32)/master.mpd
 
 #EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://sm.pcmag.com/pcmag_me/review/p/peacock/peacock_rrp4.png", Peacock TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002226dd77aceedb611dc44f78f8ccc2:e8ca159fa45d9ba119c00b8e7e474c74
-https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014685-716083-48f928f8e73)/master.mpd
+#https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5014685-716083-48f928f8e73)/master.mpd
 
 #EXTINF:-1 group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://sm.pcmag.com/pcmag_me/review/p/peacock/peacock_rrp4.png", Peacock TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
