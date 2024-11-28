@@ -60,15 +60,21 @@ https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cjf/CLNuE66j019PJXL6OQ","kid":"tyLZVr/GpFCM2R3micm4EA"}],"type":"temporary"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5125/default.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/5125/default.mpd
 
-#EXTINF:-1 tvg-id="241" ch-number="241" tvg-name="ABO Movies Thangathirai" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/TAMIL.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/ABO_Movies.png" group-title="TAMIL",241 Box Office Thangathirai 2
+#EXTINF:-1 tvg-id="241" ch-number="241" tvg-name="ABO Movies Thangathirai" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/TAMIL.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/ABO_Movies.png" group-title="TAMIL",241 Box Office Thangathirai
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
 http://d1w72er2qn2fg9.cloudfront.net/thang.mpd
 
+#EXTINF:-1 tvg-id="202" ch-number="202" tvg-name="AstroVinmeen" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="TAMIL", 202 Astro Vinmeen
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
+http://d1w72er2qn2fg9.cloudfront.net/vin.mpd
 
 #EXTINF:-1 ch-number="221" tvg-name="Star Vijay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="TAMIL" tvg-id="221" ch-number=" " tvg-name="221",221 Star Vijay HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
