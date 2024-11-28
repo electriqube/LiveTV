@@ -1473,6 +1473,7 @@ http://ktv.im:8080/q3TrJFbKyq/awTvJxk2ct/21054
 #########################################################################STREAMING##############################################################################################
 
 #EXTINF:-1 tvg-id="ts496" tvg-name="ts496" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Apple TV+ Series" , Test123
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566964
 
 
