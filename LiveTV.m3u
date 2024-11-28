@@ -453,12 +453,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2102/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bDxJgROr/99FTck1MZp5TQ","kid":"sfvQh055I/WwWSmgQqoGEA"}],"type":"temporary"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="501" ch-number:"AstroAwani" ch-number=" " tvg-name="Astro Awani" group-title="NEWS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astro Awani 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
 
 #########################################################################UNIFI##############################################################################################
 
