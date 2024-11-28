@@ -1458,7 +1458,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="SS Variety 1" tvg-name="SUPERSPORTS VARIETY 1  4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWZg_8yZyipi18i1_BUxxiYaKvA7TiooBtgrtUeqWfaBCndsANp2XHU6g-2dnH-fHcc.png" group-title="SPORTS EXTRA",SUPERSPORTS VARIETY 1
 http://ktv.im:8080/q3TrJFbKyq/awTvJxk2ct/21051
 #EXTINF:-1 tvg-id="SS Variety 2" tvg-name="SUPERSPORTS VARIETY 2 4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWbv7kjxtzGScfyymaQNKd71GrYiXtBdG5OOteh6WEcYt1ONty6NG8bBfW_XpOEUrqk.png" group-title="SPORTS EXTRA",SUPERSPORTS VARIETY 2
@@ -1468,5 +1467,94 @@ http://ktv.im:8080/q3TrJFbKyq/awTvJxk2ct/21053
 #EXTINF:-1 tvg-id="SS Variety 4" tvg-name="SUPERSPORTS VARIETY 4 4K" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWbecedHCCmjkPgewlL87P38BqAFH37HTgPIqJ23ROR065NME9hC_hh_4_J59JsH8GE.png" group-title="SPORTS EXTRA",SUPERSPORTS VARIETY 4
 http://ktv.im:8080/q3TrJFbKyq/awTvJxk2ct/21054
 
-
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml","https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml","https://raw.githubusercontent.com/matthuisman/i.mjh.nz/54e4492de98077dcb54f9b410370647444fdacff/PlutoTV/all.xml.gz"
+
+
+#########################################################################STREAMING##############################################################################################
+
+#EXTINF:-1 group-title="Apple TV+ Series" tvg-logo="https://iili.io/wwppKG.md.png" group-logo="https://iili.io/wwppKG.md.png" ,Apple TV+ Series info ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566964
+#EXTINF:-1 group-title="Apple TV+ Series" tvg-logo="https://iili.io/wwppKG.md.png" ,Apple TV+ Series 1 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566965
+#EXTINF:-1 group-title="Apple TV+ Series" tvg-logo="https://iili.io/wwppKG.md.png" ,Apple TV+ Series 2 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566966
+#EXTINF:-1 group-title="Apple TV+ Series" tvg-logo="https://iili.io/wwppKG.md.png" ,Apple TV+ Series 3 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566967
+#EXTINF:-1 group-title="Apple TV+ Series" tvg-logo="https://iili.io/wwppKG.md.png" ,Apple TV+ Series 4 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566968
+#EXTINF:-1 group-title="Apple TV+ Series" tvg-logo="https://iili.io/wwppKG.md.png" ,Apple TV+ Series 5 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566969
+#EXTINF:-1 group-title="Apple TV+ Series" tvg-logo="https://iili.io/wwppKG.md.png" ,Apple TV+ Series 6 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566970
+#EXTINF:-1 group-title="Apple TV+ Series" tvg-logo="https://iili.io/wwppKG.md.png" ,Apple TV+ Series 7 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566971
+#EXTINF:-1 group-title="Apple TV+ Series" tvg-logo="https://iili.io/wwppKG.md.png" ,Apple TV+ Series 8 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566972
+#EXTINF:-1 group-title="Apple TV+ Series" tvg-logo="https://iili.io/wwppKG.md.png" ,Apple TV+ Series 9 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566973
+#EXTINF:-1 group-title="Apple TV+ Series" tvg-logo="https://iili.io/wwppKG.md.png" ,Apple TV+ Series 10 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566974
+
+
+#EXTINF:-1 group-title="Disney+ Series tvg-logo="https://iili.io/wvqAu9.md.png" group-logo="https://iili.io/wvqAu9.md.png" ,Disney+ Series info ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566997
+#EXTINF:-1 group-title="Disney+ Series" tvg-logo="https://iili.io/wvqAu9.md.png" ,Disney+ Premiere 1 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566995
+#EXTINF:-1 group-title="Disney+ Series" tvg-logo="https://iili.io/wvqAu9.md.png" ,Disney+ Premiere 2 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566996
+#EXTINF:-1 group-title="Disney+ Series" tvg-logo="https://iili.io/wvqAu9.md.png" ,Disney+ Series 1 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566998
+#EXTINF:-1 group-title="Disney+ Series" tvg-logo="https://iili.io/wvqAu9.md.png" ,Disney+ Series 2 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/566999
+#EXTINF:-1 group-title="Disney+ Series" tvg-logo="https://iili.io/wvqAu9.md.png" ,Disney+ Series 3 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567000
+#EXTINF:-1 group-title="Disney+ Series" tvg-logo="https://iili.io/wvqAu9.md.png" ,Disney+ Series 4 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567001
+#EXTINF:-1 group-title="Disney+ Series" tvg-logo="https://iili.io/wvqAu9.md.png" ,Disney+ Series 5 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567002
+#EXTINF:-1 group-title="Disney+ Series" tvg-logo="https://iili.io/wvqAu9.md.png" ,Disney+ Series 6 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567003
+#EXTINF:-1 group-title="Disney+ Series" tvg-logo="https://iili.io/wvqAu9.md.png" ,Disney+ Series 7 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567004
+#EXTINF:-1 group-title="Disney+ Series" tvg-logo="https://iili.io/wvqAu9.md.png" ,Disney+ Series 8 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567005
+#EXTINF:-1 group-title="Disney+ Series" tvg-logo="https://iili.io/wvqAu9.md.png" ,Disney+ Series 9 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567006
+#EXTINF:-1 group-title="Disney+ Series" tvg-logo="https://iili.io/wvqAu9.md.png" ,Disney+ Series 10 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567007
+
+
+#EXTINF:-1 group-title="Netflix Premiere" tvg-logo="https://www.pngmart.com/files/10/Netflix-Logo-PNG-Clipart.png" group-logo="https://www.pngmart.com/files/10/Netflix-Logo-PNG-Clipart.png" ,Netflix Premiere info ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567117
+#EXTINF:-1 group-title="Netflix Premiere" tvg-logo="https://www.pngmart.com/files/10/Netflix-Logo-PNG-Clipart.png" ,Netflix Premiere 1 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567118
+#EXTINF:-1 group-title="Netflix Premiere" tvg-logo="https://www.pngmart.com/files/10/Netflix-Logo-PNG-Clipart.png" ,Netflix Premiere 2 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567119
+#EXTINF:-1 group-title="Netflix Premiere" tvg-logo="https://www.pngmart.com/files/10/Netflix-Logo-PNG-Clipart.png" ,Netflix Premiere 3 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567120
+#EXTINF:-1 group-title="Netflix Premiere" tvg-logo="https://www.pngmart.com/files/10/Netflix-Logo-PNG-Clipart.png" ,Netflix Premiere 4 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567121
+#EXTINF:-1 group-title="Netflix Premiere" tvg-logo="https://www.pngmart.com/files/10/Netflix-Logo-PNG-Clipart.png" ,Netflix Premiere 5 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567122
+#EXTINF:-1 group-title="Netflix Premiere" tvg-logo="https://www.pngmart.com/files/10/Netflix-Logo-PNG-Clipart.png" ,Netflix Premiere 6 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567123
+#EXTINF:-1 group-title="Netflix Premiere" tvg-logo="https://www.pngmart.com/files/10/Netflix-Logo-PNG-Clipart.png" ,Netflix Premiere 7 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567124
+#EXTINF:-1 group-title="Netflix Premiere" tvg-logo="https://www.pngmart.com/files/10/Netflix-Logo-PNG-Clipart.png" ,Netflix Premiere 8 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567125
+#EXTINF:-1 group-title="Netflix Premiere" tvg-logo="https://www.pngmart.com/files/10/Netflix-Logo-PNG-Clipart.png" ,Netflix Premiere 9 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567126
+#EXTINF:-1 group-title="Netflix Premiere" tvg-logo="https://www.pngmart.com/files/10/Netflix-Logo-PNG-Clipart.png" ,Netflix Premiere 10 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567127
+#EXTINF:-1 group-title="Netflix Premiere" tvg-logo="https://www.pngmart.com/files/10/Netflix-Logo-PNG-Clipart.png" ,Netflix Premiere 11 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567128
+#EXTINF:-1 group-title="Netflix Premiere" tvg-logo="https://www.pngmart.com/files/10/Netflix-Logo-PNG-Clipart.png" ,Netflix Premiere 12 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567129
+#EXTINF:-1 group-title="Netflix Premiere" tvg-logo="https://www.pngmart.com/files/10/Netflix-Logo-PNG-Clipart.png" ,Netflix Premiere 13 ᴴᴰ
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567130
+
+
+#######################################################################################################################################################################
+
+
+
