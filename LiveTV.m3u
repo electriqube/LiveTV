@@ -18,7 +18,7 @@ billed-msg="LIVE TV - Updated 28 Nov 2024"
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cjf/CLNuE66j019PJXL6OQ","kid":"tyLZVr/GpFCM2R3micm4EA"}],"type":"temporary"}
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/5125/default.mpd
 
-#EXTINF:-1 tvg-id="AstroThangathirai" ch-number="241" tvg-name="AstroThangathirai" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/TAMIL.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/ABO_Movies.png" group-title="TAMIL",241 Astro Thangathirai
+#EXTINF:-1 tvg-id="AstroThangathirai" ch-number="241" tvg-name="AstroThangathirai" group-logo="https://raw.githubusercontent.com/electriqube/LiveTV/main/Icons/TAMIL.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="TAMIL",241 Astro Thangathirai
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
