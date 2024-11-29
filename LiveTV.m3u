@@ -341,6 +341,45 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/509/default_primary.mp
 #EXTINF:-1 tvg-id="tiny.pop.gb" ch-number=" " tvg-name="Tiny POP" tvg-logo="https://i.ibb.co/1QVNzk4/unnamed.png" group-title="KIDS",Baby Shark Tv
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://iili.io/Lj76dP.md.png" ,Kids ABC
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567057
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://iili.io/Lj76dP.md.png" ,Kids 123
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567058
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://iili.io/Lj76dP.md.png" ,Kids Tom & Jerry
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567068
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://iili.io/Lj76dP.md.png" ,Kids SpongeBob
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567070
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://iili.io/Lj76dP.md.png" ,Kids Bob The Builder
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567076
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://iili.io/Lj76dP.md.png" ,Kids BabyShark
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567077
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://iili.io/Lj76dP.md.png" ,Kids Cocomelon
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567079
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://iili.io/Lj76dP.md.png" ,Kids BabyTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567080
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://iili.io/LjYFhG.md.png" ,Kids Shaun The Sheep
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567085
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://iili.io/HiSSRgj.md.png" ,Kids MrBean
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+http://defaultgen.com:3050/tlmadera2@gmail.com/p5mpmWm46S/567102
 
 #######################################################################################################################################################################
 
