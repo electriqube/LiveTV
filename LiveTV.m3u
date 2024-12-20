@@ -1446,12 +1446,12 @@ https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Li
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16VXlORGN5TURrdFl6azBPQzAwTXpVNUxXSTBZbU10T0RBek5HVTJZVGsxWWpBMSIsIndtb3BpZCI6MzIsImV4cCI6MTczNTAwODA5MywiaWF0IjoxNzM0NDA0MDkzfQ.utrma176FFIF2AbDVI6utlYfnTfUdnowkhjIYkjhb7o"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUZzNaR015T0RrdE56YzNaUzAwWWpZM0xXSmtOMkV0T0Rsa09XRmpaV1k1TldFMiIsIndtb3BpZCI6MzIsImV4cCI6MTczNTIyNDM0MSwiaWF0IjoxNzM0NjIwMzQxfQ.6gzEER4fWGNqEz4jpDjOoR9ArZMak06OTprg4f87G20"}
 #EXTINF:-1 tvg-id="AstroPremierLeague" ch-number="811" tvg-name="AstroPremierLeague" group-title="PREMIER LEAGUE EXTRA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png", Astro Premier League (Temp)
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik16VXlORGN5TURrdFl6azBPQzAwTXpVNUxXSTBZbU10T0RBek5HVTJZVGsxWWpBMSIsIndtb3BpZCI6MzIsImV4cCI6MTczNTAwODA5MywiaWF0IjoxNzM0NDA0MDkzfQ.utrma176FFIF2AbDVI6utlYfnTfUdnowkhjIYkjhb7o"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUZzNaR015T0RrdE56YzNaUzAwWWpZM0xXSmtOMkV0T0Rsa09XRmpaV1k1TldFMiIsIndtb3BpZCI6MzIsImV4cCI6MTczNTIyNDM0MSwiaWF0IjoxNzM0NjIwMzQxfQ.6gzEER4fWGNqEz4jpDjOoR9ArZMak06OTprg4f87G20"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
