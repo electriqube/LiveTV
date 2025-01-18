@@ -30,7 +30,7 @@ https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/thang.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
-https://linears-playback.astro.com.my/vsg/41GnHJhJAXdGXrey6jHOxC5i9mwJ8njYc0ykqeoI9q4Rc=o6mX/dash-wv/jitp-dashisowm/2105/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41GnHJhJAXdGXrey6jHOxC5oqZL14EKVJ2kWuybq3F9KE=5dDO/dash-wv/jitp-dashisowm/2105/default_primary.mpd
 #https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/vin.mpd
 
 #EXTINF:-1 ch-number="221" tvg-name="Star Vijay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="TAMIL" tvg-id="221" ch-number=" " tvg-name="221",221 Star Vijay HD
