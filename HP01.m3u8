@@ -2,10 +2,10 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86376.ts
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86376
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000001
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86376.ts
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86376
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000002
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86376.ts
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86376
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000003
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86376.ts
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86376
