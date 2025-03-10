@@ -2,8 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:YES
-#EXTINF:5.080000,
-http://b1g.ooo/hunny123/hunny321/709263.ts
 #EXTINF:5.080000,
 http://b1g.ooo/hunny123/hunny321/709262.ts
+#EXTINF:4.080000,
+http://b1g.ooo/hunny123/hunny321/709263.ts
