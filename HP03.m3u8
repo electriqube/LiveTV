@@ -1,11 +1,5 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXTVLCOPT:http-reconnect=true
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/157019.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000001
-http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/157019.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000002
-http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/157019.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000003
-http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/157019.m3u8
+#EXTINF:-1 group-title="HUB PREMIER SPORTS" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png", Hub Premier 3 - Vpn
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
+https://ucdn.starhubgo.com/bpk-tv/HubPremier3/output/manifest.mpd
+
