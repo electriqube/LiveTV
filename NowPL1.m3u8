@@ -2,10 +2,10 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-hhttp://newton68769.cdngold.me:80/live/84e409ccbe/a2d7b7b506/444700.m3u8
+http://newton68769.cdngold.me:80/live/84e409ccbe/a2d7b7b506/444700.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000001
-hhttp://newton68769.cdngold.me:80/live/84e409ccbe/a2d7b7b506/444700.m3u8
+http://newton68769.cdngold.me:80/live/84e409ccbe/a2d7b7b506/444700.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000002
-hhttp://newton68769.cdngold.me:80/live/84e409ccbe/a2d7b7b506/444700.m3u8
+http://newton68769.cdngold.me:80/live/84e409ccbe/a2d7b7b506/444700.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000003
-hhttp://newton68769.cdngold.me:80/live/84e409ccbe/a2d7b7b506/444700.m3u8
+http://newton68769.cdngold.me:80/live/84e409ccbe/a2d7b7b506/444700.m3u8
