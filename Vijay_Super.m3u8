@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://newton68769.cdngold.me:80/live/84e409ccbe/a2d7b7b506/440675.m3u8
+http://exm3u.extraott.com:900/live/2249871453/1991220000/400159597.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000001
-http://newton68769.cdngold.me:80/live/84e409ccbe/a2d7b7b506/440675.m3u8
+http://exm3u.extraott.com:900/live/2249871453/1991220000/400159597.m3u8
