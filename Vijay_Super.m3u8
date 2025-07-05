@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-https://proxy-07-op.vercel.app/api/stream?id=1614
+http://exm3u.extraott.com:900/live/2249871453/1991220000/400159597.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000001
-https://proxy-07-op.vercel.app/api/stream?id=1614
+http://exm3u.extraott.com:900/live/2249871453/1991220000/400159597.m3u8
