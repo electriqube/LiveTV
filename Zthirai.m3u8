@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://slip50863.cdngold.me:80//live/c8bb0d2998/297afed6ea/440765.m3u8
+http://slip50863.cdngold.me:80/live/c8bb0d2998/297afed6ea/440765.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000001
-http://slip50863.cdngold.me:80//live/c8bb0d2998/297afed6ea/440765.m3u8
+http://slip50863.cdngold.me:80/live/c8bb0d2998/297afed6ea/440765.m3u8
